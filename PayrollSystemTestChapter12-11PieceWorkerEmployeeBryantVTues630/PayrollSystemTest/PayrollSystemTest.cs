@@ -1,5 +1,8 @@
 ﻿// Exercise 12.11 Solution: PayrollSystemTest.cs
 // Employee hierarchy test program.
+
+//Grade: 8.9
+//You created the PieceWorker class but did not implement it here.
 /*using System;
 
 public class PayrollSystemTest

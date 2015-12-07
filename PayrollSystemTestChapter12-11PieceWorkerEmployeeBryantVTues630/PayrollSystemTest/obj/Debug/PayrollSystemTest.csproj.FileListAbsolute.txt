@@ -14,3 +14,5 @@ C:\Users\bvail\Desktop\PayrollSystemTest\bin\Debug\PayrollSystemTest.exe
 C:\Users\bvail\Desktop\PayrollSystemTest\bin\Debug\PayrollSystemTest.pdb
 C:\Users\Bvail\Documents\GitHub\12.11PieceWorkerClassCshBryantV11172015\PayrollSystemTestChapter12-11PieceWorkerEmployeeBryantVTues630\PayrollSystemTest\obj\Debug\PayrollSystemTest.exe
 C:\Users\Bvail\Documents\GitHub\12.11PieceWorkerClassCshBryantV11172015\PayrollSystemTestChapter12-11PieceWorkerEmployeeBryantVTues630\PayrollSystemTest\obj\Debug\PayrollSystemTest.pdb
+C:\Users\April\Documents\SSC\COP2360\Repositories\Bryant\12.11PieceWorkerClassCshBryantV11172015\PayrollSystemTestChapter12-11PieceWorkerEmployeeBryantVTues630\PayrollSystemTest\obj\Debug\PayrollSystemTest.exe
+C:\Users\April\Documents\SSC\COP2360\Repositories\Bryant\12.11PieceWorkerClassCshBryantV11172015\PayrollSystemTestChapter12-11PieceWorkerEmployeeBryantVTues630\PayrollSystemTest\obj\Debug\PayrollSystemTest.pdb
